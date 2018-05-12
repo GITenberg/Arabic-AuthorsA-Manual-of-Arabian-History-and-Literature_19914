@@ -1,0 +1,31 @@
+_repo: Arabic-AuthorsA-Manual-of-Arabian-History-and-Literature_19914
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arbuthnot, F. F.
+    alias: Arbuthnot, Forster Fitzgerald
+    birthdate: 1833
+    deathdate: 1901
+    gutenberg_agent_id: '8964'
+    url: http://www.gutenberg.org/2009/agents/8964
+    wikipedia: http://en.wikipedia.org/wiki/Forster_Fitzgerald_Arbuthnot
+description: ''
+gutenberg_issued: '2006-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Arabic literature -- History and criticism'
+- !lcsh 'Arabian Peninsula -- History'
+title: 'Arabic Authors
+
+  A Manual of Arabian History and Literature'
+url: http://www.gutenberg.org/ebooks/19914
